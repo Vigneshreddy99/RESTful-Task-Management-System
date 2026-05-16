@@ -4,13 +4,13 @@ A full-stack web application for managing daily tasks efficiently with complete 
 
 ## Features
 
-- ✅ CRUD Operations On Tasks
-- ✅ Error Handling And Validation
-- ✅ Toast Messages On CRUD Operations using react-toastify
-- ✅ Axios For API Handling
-- ✅ Modular Backend Architecture
-- ✅ Optimized MongoDB Queries
-- ✅ Clean and Well-Commented Code
+- CRUD Operations On Tasks
+- Error Handling And Validation
+- Toast Messages On CRUD Operations using react-toastify
+- Axios For API Handling
+- Modular Backend Architecture
+- Optimized MongoDB Queries
+- Clean and Well-Commented Code
 
 ## Tech Stack
 
