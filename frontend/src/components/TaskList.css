@@ -1,0 +1,26 @@
+/* Task List Styles */
+.task-list-container {
+  background: white;
+  border-radius: 10px;
+  padding: 25px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.task-list-container h2 {
+  color: #333;
+  margin-bottom: 20px;
+  font-size: 1.5rem;
+}
+
+.no-tasks {
+  text-align: center;
+  color: #999;
+  padding: 40px 20px;
+  font-size: 1.1rem;
+}
+
+.task-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
